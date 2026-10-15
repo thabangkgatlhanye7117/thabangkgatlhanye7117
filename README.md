@@ -1,6 +1,6 @@
 
 
-Hi, I'm T 👋
+Hi, I'm Thabang Kgatlhanye 👋
 Data Product Engineer | Data Science Learner @ Ogilvy South Africa
 
 I build full-stack data products that bridge the gap between data collection, backend pipelines, and real-time user dashboards. Experienced in designing offline-tolerant data ingestion, multi-tenant databases, and custom analytics visualisations.
