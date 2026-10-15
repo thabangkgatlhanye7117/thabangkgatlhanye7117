@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**thabangkgatlhanye7117/thabangkgatlhanye7117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm T 👋
+Data Product Engineer | Data Science Learner @ Ogilvy South Africa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build full-stack data products that bridge the gap between data collection, backend pipelines, and real-time user dashboards. Experienced in designing offline-tolerant data ingestion, multi-tenant databases, and custom analytics visualisations.
+
+🚀 Featured Products
+
+Bullasoft Platform
+
+Next.js 14, TypeScript, Supabase, PostgreSQL, jsQR
+Multi-tenant event intelligence platform featuring offline-first QR gate scanning, deduplicated headcount pipelines, and custom SVG visualisations. Currently piloted with Skyfall Entertainment.
+
+World Cup Fantasy League
+
+Python, Streamlit / Web Stack, Data Modeling
+A collaborative fantasy sports application built with a colleague at Ogilvy SA, modeling player performance data and real-time scoring rules.
+
+🛠️ Tech Stack & Disciplines
+Core Languages: TypeScript, Python, SQL, JavaScript
+Web & Product Engineering: Next.js (App Router), React, REST APIs, Vercel
+Data & Database: PostgreSQL, Supabase (RLS & multi-tenancy), Pandas, Scikit-learn
+Data Product Focus: Offline-first sync, idempotent data pipelines, time-series bucketing, custom SVG visualisations
+📬 Connect With Me
+LinkedIn: linkedin.com/in/your-profile
+Portfolio / Live Demos: your-site-or-app.vercel.app
+Email: thabangkgatlhanye7117@gmail.com
+
+
+---
+
+
