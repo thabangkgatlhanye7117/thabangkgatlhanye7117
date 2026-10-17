@@ -31,5 +31,5 @@ I build full-stack data products that bridge the gap between data collection, ba
 
 - **Portfolio:** [thabang-kgatlhanye-portfolio.vercel.app](https://thabang-kgatlhanye-portfolio.vercel.app)
 - **Email:** [thabangkgatlhanye7117@gmail.com](mailto:thabangkgatlhanye7117@gmail.com)
-- **LinkedIn:** [Add Your LinkedIn URL Here]
+- **LinkedIn:** www.linkedin.com/in/thabang-kgatlhanye-200889211
 
