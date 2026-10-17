@@ -8,7 +8,7 @@ I build full-stack data products that bridge the gap between data collection, ba
 
 ### 🚀 Featured Products
 
-- **Bullasoft Platform**  
+- **Floq**  
   *Next.js 14, TypeScript, Supabase, PostgreSQL, jsQR*  
   Multi-tenant event intelligence platform featuring offline-first QR gate scanning, deduplicated headcount pipelines, and custom SVG visualisations. Currently piloted with Skyfall Entertainment.
 
